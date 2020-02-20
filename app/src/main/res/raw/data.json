@@ -1,0 +1,280 @@
+{
+  "content": [
+    {
+      "productId": 1,
+      "productName": "Meizu M5 Note",
+      "productSlug": "meizu-m5-note",
+      "productQty": 15,
+      "productImage": "http://img.com/600x400",
+      "merchant": {
+        "merchantId": 2,
+        "merchantName": "Meixu Store ID",
+        "merchantSlug": "meixu-store-id"
+      },
+      "category": {
+        "categoryId": 1,
+        "categoryName": "Handphone"
+      }
+    },
+    {
+      "productId": 2,
+      "productName": "Macbook Pro late 2011",
+      "productSlug": "macbook-pro-late-2011",
+      "productQty": 15,
+      "productImage": "http://img.com/600x400",
+      "merchant": {
+        "merchantId": 1,
+        "merchantName": "myBox iStore",
+        "merchantSlug": "mybox-istore"
+      },
+      "category": {
+        "categoryId": 2,
+        "categoryName": "Laptop"
+      }
+    },
+    {
+      "data": [
+        {
+          "productId": 1,
+          "productName": "Sleek Aluminum Keyboard",
+          "productSlug": "sleek-aluminum-keyboard",
+          "productQty": 8,
+          "productImage": "images\/products\/product_image_1280x780.png",
+          "categoryId": 1,
+          "merchantId": 3,
+          "created_at": "2020-02-17 07:55:33",
+          "updated_at": "2020-02-17 07:55:33",
+          "merchant": {
+            "merchantId": 3,
+            "merchantName": "Ms. Christina Beer DDS",
+            "merchantSlug": "ms-christina-beer-dds",
+            "created_at": "2020-02-17 07:49:55",
+            "updated_at": "2020-02-17 07:49:55"
+          },
+          "category": {
+            "categoryId": 1,
+            "categoryName": "Clothing",
+            "created_at": "2020-02-17 07:51:56",
+            "updated_at": "2020-02-17 07:51:56"
+          }
+        },
+        {
+          "productId": 2,
+          "productName": "Mediocre Cotton Table",
+          "productSlug": "mediocre-cotton-table",
+          "productQty": 10,
+          "productImage": "images\/products\/product_image_1280x780.png",
+          "categoryId": 2,
+          "merchantId": 1,
+          "created_at": "2020-02-17 07:55:33",
+          "updated_at": "2020-02-17 07:55:33",
+          "merchant": {
+            "merchantId": 1,
+            "merchantName": "Marjorie Schoen",
+            "merchantSlug": "marjorie-schoen",
+            "created_at": "2020-02-17 07:49:55",
+            "updated_at": "2020-02-17 07:49:55"
+          },
+          "category": {
+            "categoryId": 2,
+            "categoryName": "Shoes & Grocery",
+            "created_at": "2020-02-17 07:51:56",
+            "updated_at": "2020-02-17 07:51:56"
+          }
+        },
+        {
+          "productId": 3,
+          "productName": "Intelligent Iron Coat",
+          "productSlug": "intelligent-iron-coat",
+          "productQty": 3,
+          "productImage": "images\/products\/product_image_1280x780.png",
+          "categoryId": 1,
+          "merchantId": 3,
+          "created_at": "2020-02-17 07:55:33",
+          "updated_at": "2020-02-17 07:55:33",
+          "merchant": {
+            "merchantId": 3,
+            "merchantName": "Ms. Christina Beer DDS",
+            "merchantSlug": "ms-christina-beer-dds",
+            "created_at": "2020-02-17 07:49:55",
+            "updated_at": "2020-02-17 07:49:55"
+          },
+          "category": {
+            "categoryId": 1,
+            "categoryName": "Clothing",
+            "created_at": "2020-02-17 07:51:56",
+            "updated_at": "2020-02-17 07:51:56"
+          }
+        },
+        {
+          "productId": 4,
+          "productName": "Durable Plastic Bottle",
+          "productSlug": "durable-plastic-bottle",
+          "productQty": 2,
+          "productImage": "images\/products\/product_image_1280x780.png",
+          "categoryId": 2,
+          "merchantId": 2,
+          "created_at": "2020-02-17 07:55:33",
+          "updated_at": "2020-02-17 07:55:33",
+          "merchant": {
+            "merchantId": 2,
+            "merchantName": "Thora Kautzer",
+            "merchantSlug": "thora-kautzer",
+            "created_at": "2020-02-17 07:49:55",
+            "updated_at": "2020-02-17 07:49:55"
+          },
+          "category": {
+            "categoryId": 2,
+            "categoryName": "Shoes & Grocery",
+            "created_at": "2020-02-17 07:51:56",
+            "updated_at": "2020-02-17 07:51:56"
+          }
+        },
+        {
+          "productId": 5,
+          "productName": "Gorgeous Paper Knife",
+          "productSlug": "gorgeous-paper-knife",
+          "productQty": 8,
+          "productImage": "images\/products\/product_image_1280x780.png",
+          "categoryId": 3,
+          "merchantId": 1,
+          "created_at": "2020-02-17 07:55:33",
+          "updated_at": "2020-02-17 07:55:33",
+          "merchant": {
+            "merchantId": 1,
+            "merchantName": "Marjorie Schoen",
+            "merchantSlug": "marjorie-schoen",
+            "created_at": "2020-02-17 07:49:55",
+            "updated_at": "2020-02-17 07:49:55"
+          },
+          "category": {
+            "categoryId": 3,
+            "categoryName": "Outdoors & Health",
+            "created_at": "2020-02-17 07:51:56",
+            "updated_at": "2020-02-17 07:51:56"
+          }
+        },
+        {
+          "productId": 6,
+          "productName": "Sleek Silk Computer",
+          "productSlug": "sleek-silk-computer",
+          "productQty": 5,
+          "productImage": "images\/products\/product_image_1280x780.png",
+          "categoryId": 2,
+          "merchantId": 1,
+          "created_at": "2020-02-17 07:55:33",
+          "updated_at": "2020-02-17 07:55:33",
+          "merchant": {
+            "merchantId": 1,
+            "merchantName": "Marjorie Schoen",
+            "merchantSlug": "marjorie-schoen",
+            "created_at": "2020-02-17 07:49:55",
+            "updated_at": "2020-02-17 07:49:55"
+          },
+          "category": {
+            "categoryId": 2,
+            "categoryName": "Shoes & Grocery",
+            "created_at": "2020-02-17 07:51:56",
+            "updated_at": "2020-02-17 07:51:56"
+          }
+        },
+        {
+          "productId": 7,
+          "productName": "Fantastic Concrete Hat",
+          "productSlug": "fantastic-concrete-hat",
+          "productQty": 9,
+          "productImage": "images\/products\/product_image_1280x780.png",
+          "categoryId": 2,
+          "merchantId": 3,
+          "created_at": "2020-02-17 07:55:33",
+          "updated_at": "2020-02-17 07:55:33",
+          "merchant": {
+            "merchantId": 3,
+            "merchantName": "Ms. Christina Beer DDS",
+            "merchantSlug": "ms-christina-beer-dds",
+            "created_at": "2020-02-17 07:49:55",
+            "updated_at": "2020-02-17 07:49:55"
+          },
+          "category": {
+            "categoryId": 2,
+            "categoryName": "Shoes & Grocery",
+            "created_at": "2020-02-17 07:51:56",
+            "updated_at": "2020-02-17 07:51:56"
+          }
+        },
+        {
+          "productId": 8,
+          "productName": "Lightweight Linen Lamp",
+          "productSlug": "lightweight-linen-lamp",
+          "productQty": 6,
+          "productImage": "images\/products\/product_image_1280x780.png",
+          "categoryId": 3,
+          "merchantId": 1,
+          "created_at": "2020-02-17 07:55:33",
+          "updated_at": "2020-02-17 07:55:33",
+          "merchant": {
+            "merchantId": 1,
+            "merchantName": "Marjorie Schoen",
+            "merchantSlug": "marjorie-schoen",
+            "created_at": "2020-02-17 07:49:55",
+            "updated_at": "2020-02-17 07:49:55"
+          },
+          "category": {
+            "categoryId": 3,
+            "categoryName": "Outdoors & Health",
+            "created_at": "2020-02-17 07:51:56",
+            "updated_at": "2020-02-17 07:51:56"
+          }
+        },
+        {
+          "productId": 9,
+          "productName": "Synergistic Plastic Clock",
+          "productSlug": "synergistic-plastic-clock",
+          "productQty": 3,
+          "productImage": "images\/products\/product_image_1280x780.png",
+          "categoryId": 1,
+          "merchantId": 2,
+          "created_at": "2020-02-17 07:55:33",
+          "updated_at": "2020-02-17 07:55:33",
+          "merchant": {
+            "merchantId": 2,
+            "merchantName": "Thora Kautzer",
+            "merchantSlug": "thora-kautzer",
+            "created_at": "2020-02-17 07:49:55",
+            "updated_at": "2020-02-17 07:49:55"
+          },
+          "category": {
+            "categoryId": 1,
+            "categoryName": "Clothing",
+            "created_at": "2020-02-17 07:51:56",
+            "updated_at": "2020-02-17 07:51:56"
+          }
+        },
+        {
+          "productId": 10,
+          "productName": "Lightweight Copper Clock",
+          "productSlug": "lightweight-copper-clock",
+          "productQty": 7,
+          "productImage": "images\/products\/product_image_1280x780.png",
+          "categoryId": 1,
+          "merchantId": 3,
+          "created_at": "2020-02-17 07:55:33",
+          "updated_at": "2020-02-17 07:55:33",
+          "merchant": {
+            "merchantId": 3,
+            "merchantName": "Ms. Christina Beer DDS",
+            "merchantSlug": "ms-christina-beer-dds",
+            "created_at": "2020-02-17 07:49:55",
+            "updated_at": "2020-02-17 07:49:55"
+          },
+          "category": {
+            "categoryId": 1,
+            "categoryName": "Clothing",
+            "created_at": "2020-02-17 07:51:56",
+            "updated_at": "2020-02-17 07:51:56"
+          }
+        }
+      ]
+    }
+  ]
+}
